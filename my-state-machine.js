@@ -184,6 +184,7 @@ const vacancyMachine = machine({
         }
       }
     }
+	  
   },
   // Раздел описание экшенов
   actions: {
